@@ -1,5 +1,10 @@
 # calibre
 
+## 下载与交流
+
+- 华为应用市场：[AirShelf](https://appgallery.huawei.com/app/detail?id=com.airshelf.app)
+- 交流群：1105698553
+
 <img align="left" src="https://raw.githubusercontent.com/kovidgoyal/calibre/master/resources/images/lt.png" height="200" width="200"/>
 
 calibre is an e-book manager. It can view, convert, edit and catalog e-books 
@@ -46,8 +51,3 @@ calibre binaries and installers for all the platforms calibre supports.
 ## calibre package versions in various repositories
 
 [![Packaging Status](https://repology.org/badge/vertical-allrepos/calibre.svg?columns=3&header=calibre)](https://repology.org/project/calibre/versions)
-
-## 下载与交流
-
-- 华为应用市场：[AirShelf](https://appgallery.huawei.com/app/detail?id=com.airshelf.app)
-- 交流群：1105698553
